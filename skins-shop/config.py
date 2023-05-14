@@ -1,0 +1,5 @@
+PROVIDER_PAYMASTER_TOKEN = "1744374395:TEST:71f90000c9db216b67cf"
+
+TOKEN = "6034886553:AAGcITepc9JUHL3LKWk7TgXPGcPqsyxa4Ug"
+if not TOKEN:
+    exit('Error: token not found!')
